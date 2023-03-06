@@ -1,3 +1,3 @@
-# chatgpt-cookbook
+# the-art-of-chatgpt
 
-https://github.com/mefengl/chatgpt-cookbook/wiki
+https://github.com/mefengl/the-art-of-chatgpt/wiki
